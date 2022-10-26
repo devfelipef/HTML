@@ -91,6 +91,7 @@ Minhas anotações de aprendizados HTML
     - `<td>` define uma célula da tabela
     
     ```html
+
     <table>
         <tr>
             <th>Id</th>
