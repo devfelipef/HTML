@@ -1,4 +1,4 @@
-# Html
+# HTML
 Minhas anotações de aprendizados HTML
 
 - **O que é HTML?**
