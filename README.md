@@ -5,11 +5,8 @@ Minhas anotações de aprendizados HTML
     
     HTML é a linguagem de marcação padrão para páginas da Web.
     
-    Com HTML você pode criar seu próprio site.
+    Com HTML você pode criar seu próprio site. Uaauuu
     
-    ---
-    
-
 ---
 
 - h1-h6 - **título**
