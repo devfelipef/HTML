@@ -8,9 +8,10 @@ Minhas anotações de aprendizados HTML
     Com HTML você pode criar seu próprio site. Uaauuu
     
 ---
-
+Sugiro que façam vcs mesmos para ver o que vai mostrar na tela e também para fixar nesse seu cerebro :P
 - h1-h6 - **título**
     
+   
     ```html
     <div>
             <h1>Título do texto 1</h1>
